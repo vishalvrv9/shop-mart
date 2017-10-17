@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "name": "Pen",
+      "cost": 20,
+      "value": 0,
+      "id": 0
+    },
+    {
+      "name": "Pencil",
+      "cost": 30,
+      "value": 0,
+      "id": 1
+    },
+    {
+      "name": "Marker",
+      "cost": 100,
+      "value": 0,
+      "id": 2
+    }
+  ]
+}
